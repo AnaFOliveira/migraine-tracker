@@ -7,3 +7,4 @@ temp/
 # ignore venv folder
 venv/
 
+.idea/

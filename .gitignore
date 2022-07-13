@@ -8,3 +8,6 @@ temp/
 venv/
 
 .idea/
+
+#django settings, keys
+migrainetracker.migrainetracker.settings

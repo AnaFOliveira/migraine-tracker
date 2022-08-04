@@ -1,6 +1,6 @@
 from django.urls import path
-from . import views
+from migrainetracker import views
 
 urlpatterns = [
-    path('', views, name="tracker-home"),
+ #   path('', views, name="tracker-home"),
 ]

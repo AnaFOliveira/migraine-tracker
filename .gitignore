@@ -7,7 +7,8 @@ temp/
 # ignore venv folder
 venv/
 
+#ignore env files
+.env
+
 .idea/
 
-#django settings, keys
-migrainetracker.migrainetracker.settings
